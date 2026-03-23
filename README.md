@@ -1,14 +1,13 @@
 # GitCommitter 🚀
 
 <div align="center">
-  <img src="./assets/banner.png" alt="GitCommitter Banner" width="800">
+  <img src="./assets/gitcommiittter.png" alt="GitCommitter Showcase Banner" width="800">
   <br />
   <p align="center">
     <strong>Elevate Your GitHub Presence. Automate Your Contributions. Command Your Narrative.</strong>
   </p>
   
-  [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen.svg?style=for-the-badge&logo=github-actions)](https://github.com/your-username/gitcommitter)
-  [![Version](https://img.shields.io/badge/Version-1.0.0-gold.svg?style=for-the-badge)](https://github.com/your-username/gitcommitter)
+  [![Version](https://img.shields.io/badge/Version-1.0.0-gold.svg?style=for-the-badge)](https://github.com/shivvx/contributiontool)
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
   [![TypeScript](https://img.shields.io/badge/TypeScript-Ready-blue.svg?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
   [![Node.js](https://img.shields.io/badge/Node.js-18+-6DA55F.svg?style=for-the-badge&logo=node.js)](https://nodejs.org)
@@ -22,48 +21,24 @@
 
 **GitCommitter** is a premium, full-stack automation engine designed for the modern developer. It empowers you to maintain a consistent and impactful GitHub contribution graph without the manual overhead. Built with security and scalability at its core, GitCommitter forges authentic activity directly via the GitHub REST API, ensuring your profile stays active even when you're away.
 
-> [!IMPORTANT]
-> GitCommitter operates entirely through API-driven tree/blob manipulation. No local cloning, no footprint, just pure automated productivity.
-
 ---
 
-## 🔥 Key Features
+## 💎 Advanced Features
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🤖 Seamless Automation</h3>
-      <p>Configure intelligent crons that simulate organic repository activity. Tailor your commit frequency to match your natural workflow.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔐 OAuth Security</h3>
-      <p>Secure, enterprise-grade authentication via GitHub OAuth. Your credentials never touch our database; only necessary scopes are requested.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📊 Advanced Analytics</h3>
-      <p>A comprehensive superadmin dashboard powered by Google Analytics Data API. Visualize your impact with high-fidelity metric tracking.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>💳 Pro Subscription</h3>
-      <p>Unlock premium features including targeted contributions and priority scheduling, integrated flawlessly with Razorpay.</p>
-    </td>
-  </tr>
-</table>
+### 🤖 Intelligent Contribution Forging
+Our core engine simulates authentic developer activity by manipulating the Git tree/blob structure. It respects GitHub's API limits and pattern detection, creating a natural and consistent contribution history.
 
----
+### 🔗 Dual-Push Synchronization (Exclusive)
+Maintain two separate repositories in perfect sync. This feature is ideal for developers who want to bridge private enterprise work with a public-facing contribution portfolio without exposing internal codebases.
 
-## 🛠️ Tech Stack
+### 🔐 Enterprise-Grade Security
+Your data is protected with AES-256 encryption at rest. We leverage GitHub OAuth for secure access, requesting only the specific scopes required to maintain your repositories.
 
-GitCommitter is forged with the finest tools in the software industry:
+### 📊 Real-Time Observability
+A high-fidelity administrative dashboard providing deep insights into your automation pipelines. Monitor commit velocity, success rates, and repository status in real-time.
 
--   **Frontend**: `React 19` + `Vite` for a blazingly fast, interactive UI.
--   **Styling**: `Tailwind CSS 4` for a sleek, Amoled-gold aesthetic.
--   **Backend**: `Node.js` + `Express` automation engine.
--   **Database**: `PostgreSQL` managed via `Prisma ORM`.
--   **Infrastructure**: `Docker` + `Vercel` for high-availability deployment.
--   **Messaging**: `Zoho SMTP` for reliable transactional communications.
+### 💳 Seamless Pro Integration
+Integrated with Razorpay for automated subscription management. Unlock advanced scheduling, priority queues, and multiple repository support with a single click.
 
 ---
 
