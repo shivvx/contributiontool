@@ -83,46 +83,24 @@ graph TD
 
 ---
 
-## 🚀 Getting Started
+## 🌎 Live Experience
 
-### Prerequisites
+GitCommitter is designed for high-impact developers who value their time and their professional presence.
 
--   Node.js v18 or higher
--   PostgreSQL instance
--   GitHub OAuth Application Credentials
-
-### Installation
-
-1.  **Clone the Repository**
-    ```bash
-    git clone https://github.com/your-username/gitcommitter.git
-    cd gitcommitter/dev
-    ```
-
-2.  **Install Dependencies**
-    ```bash
-    npm install
-    ```
-
-3.  **Environment Setup**
-    Copy `.env.example` to `.env` and populate your specific API keys and database URLs.
-
-4.  **Launch the System**
-    ```bash
-    npm run dev
-    ```
+-   **Explore the Dashboard**: [wiroxa.com/gitcommitter](https://wiroxa.com/gitcommitter)
+-   **Join the Pro Network**: Unlock dual-push synchronization and targeted repository strategy.
 
 ---
 
 ## 🤝 Community & Support
 
--   **Contributing**: We love PRs! Check out our [CONTRIBUTING.md](./PublicGIT/CONTRIBUTING.md).
--   **Issues**: Report bugs or request features via the GitHub Issues tab.
--   **Security**: Please report vulnerabilities to our security team via [SECURITY.md](./PublicGIT/SECURITY.md).
+-   **Documentation**: Focused on architecture and automation standards.
+-   **Feedback**: We value community input! Open an issue for feature requests.
+-   **Security**: Please report vulnerabilities via our [SECURITY.md](./PublicGIT/SECURITY.md).
 
 ---
 
 <div align="center">
-  <p>Built with ❤️ by the Wiroxa Team</p>
+  <p>Forged with Precision by the Wiroxa Team</p>
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </div>
