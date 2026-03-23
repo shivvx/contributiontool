@@ -60,9 +60,10 @@ graph TD
 
 ## 🌎 Live Experience
 
-GitCommitter is designed for high-impact developers who value their time and their professional presence.
+GitCommitter is part of the Wiroxa ecosystem, designed for high-impact developers.
 
--   **Explore the Dashboard**: [wiroxa.com/gitcommitter](https://wiroxa.com/gitcommitter)
+-   **Explore the Dashboard**: [gitcommitter.wiroxa.dev](https://gitcommitter.wiroxa.dev)
+-   **Main Platform**: [wiroxa.dev](https://wiroxa.dev)
 -   **Join the Pro Network**: Unlock dual-push synchronization and targeted repository strategy.
 
 ---
